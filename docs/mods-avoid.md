@@ -32,7 +32,7 @@ safely by the INI tweaks in the guide.
 
 Works by going through your save file and deleting every REFR file, which will most likely break your save.
 
-## Any Bugfix/Unoffical Patch Mod
+## Any Bugfix/Unofficial Patch Mod
 
 TTW already contains its own bugfixes and has its own unofficial patch (YUPTTW). As a result, the FNV
 bugfix mods like YUP, Unofficial Patch NVSE, etc. will conflict with or break the fixes already included in TTW.
